@@ -1,5 +1,5 @@
-# Handcrefted-Feature-Extraction
-Handcrefted Feature Extraction approach for gesture classification of triboelectric signals
+# Handcrafted-Feature-Extraction
+Handcrafted Feature Extraction approach for gesture classification of triboelectric signals
 
 Author of the code: Thiago Simoes Dias - tsimoesdias@gmail.com
 
